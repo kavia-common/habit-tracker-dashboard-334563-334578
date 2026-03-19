@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/habit-tracker-dashboard-334563-334578/backend_api"
+}
